@@ -75,7 +75,7 @@ Self service methods for asking questions and filing tickets:
 
  * `Source Repository <https://github.com/Rorosha/testcloud>`_
 
- * `Currently Open Issues <https://phab.qadevel.cloud.fedoraproject.org/tag/testcloud/>`_
+ * `Currently Open Issues <https://phab.qa.fedoraproject.org/tag/testcloud/>`_
 
 For other questions, the best places to ask are:
 
